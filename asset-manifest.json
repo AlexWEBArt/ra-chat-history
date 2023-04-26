@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-chat-history/static/css/main.a9e4f51b.css",
+    "main.js": "/ra-chat-history/static/js/main.a28df00f.js",
+    "static/js/787.c122cb82.chunk.js": "/ra-chat-history/static/js/787.c122cb82.chunk.js",
+    "index.html": "/ra-chat-history/index.html",
+    "main.a9e4f51b.css.map": "/ra-chat-history/static/css/main.a9e4f51b.css.map",
+    "main.a28df00f.js.map": "/ra-chat-history/static/js/main.a28df00f.js.map",
+    "787.c122cb82.chunk.js.map": "/ra-chat-history/static/js/787.c122cb82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e4f51b.css",
+    "static/js/main.a28df00f.js"
+  ]
+}
